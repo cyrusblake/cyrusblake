@@ -5,7 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyrusblake" alt="cyrusblake" /></a> </p>
 
+- 🔭 I’m currently in a Software Development Program [Year Up](https://www.yearup.org/job-training/application-development-and-support)
+
+- 🌱 I’m currently learning **SQL**
+
+- 👨‍💻 All of my projects are available at [https://cyrusblake.github.io/Portfolio/](https://cyrusblake.github.io/Portfolio/)
+
 - 📫 How to reach me **cyrusblake89@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/cyrus-blake-10b8001a9/overlay/1635499288303/single-media-viewer/](https://www.linkedin.com/in/cyrus-blake-10b8001a9/overlay/1635499288303/single-media-viewer/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
