@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently in a Software Development Program [Year Up](https://www.yearup.org/job-training/application-development-and-support)
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **SQL and C**
 
 - 👨‍💻 All of my projects are available at [https://cyrusblake.github.io/Portfolio/](https://cyrusblake.github.io/Portfolio/)
 
