@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cyrus Blake</h1>
 <h3 align="center">An aspiring software engineer and student @ Year Up from Brooklyn, New York</h3>
 
-- 🔭 I’m currently in a Software Development Program [Year Up](https://www.yearup.org/job-training/application-development-and-support)
+- 🔭 I’m currently in a Software Development Program Called [Year Up](https://www.yearup.org/job-training/application-development-and-support)
 
 - 🌱 I’m currently learning **HTML and CSS**
 
