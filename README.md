@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Python, JavaScript, and SQL
 
-- 👨‍💻 All of my projects are available at [https://cyrusblake.github.io/Portfolio/](https://cyrusblake.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/cyrus-blake-portfolio/projects?authuser=0](https://sites.google.com/view/cyrus-blake-portfolio/projects?authuser=0)
 
 - 📫 How to reach me **cyrusblake89@gmail.com**
 
