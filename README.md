@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/cyrus-blake-10b8001a9/overlay/1635499288303/single-media-viewer/](https://www.linkedin.com/in/cyrus-blake-10b8001a9/overlay/1635499288303/single-media-viewer/)
 
-- 📄 Check out my portfolio [https://sites.google.com/view/cyrus-blake-portfolio/projects?authuser=0](https://sites.google.com/view/cyrus-blake-portfolio/projects?authuser=0)
+- 📄 Check out my portfolio [https://sites.google.com/view/cyrus-blake-portfolio/home?authuser=0](https://sites.google.com/view/cyrus-blake-portfolio/home?authuser=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
