@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently an intern at Wells Fargo and in a Software Development Program Called [Year Up](https://www.yearup.org/job-training/application-development-and-support)
 
-- 🌱 I’m currently working with Java, Spring Boot, MongoDB, and Angular 
+- 🌱 I’m currently working with Java, Spring Boot, TypeScript, and Angular 
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/cyrus-blake-portfolio/projects?authuser=0](https://sites.google.com/view/cyrus-blake-portfolio/projects?authuser=0)
 
