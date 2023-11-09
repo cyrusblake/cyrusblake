@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cyrus Blake</h1>
-<h3 align="center">An aspiring software engineer and student @ Year Up from Brooklyn, New York</h3>
+<h3 align="center">An aspiring software engineer from Brooklyn, New York</h3>
 
-- 🔭 I’m currently an intern at Wells Fargo and in a Software Development Program Called [Year Up](https://www.yearup.org/job-training/application-development-and-support)
+- 🔭 I was an intern at Wells Fargo and just recently graduated from a Software Development Program Called [Year Up](https://www.yearup.org/job-training/application-development-and-support)
 
-- 🌱 I’m currently working with Java, Spring Boot, TypeScript, and Angular 
+- 🌱 I’m currently working with MySQL, Express.js, React, and Node.js 
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/cyrus-blake-portfolio/projects?authuser=0](https://sites.google.com/view/cyrus-blake-portfolio/projects?authuser=0)
 
