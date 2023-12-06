@@ -3,7 +3,7 @@
 
 - 🔭 I interned at Wells Fargo and just recently graduated from a Software Development Program Called [Year Up](https://www.yearup.org/job-training/application-development-and-support)
 
-- 🌱 I’m currently working with MySQL, Express.js, React, and Node.js 
+- 🌱 I’m currently working with Java, Spring Boot, JavaScript, React, Express.js, Node.js, and MySQL
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/cyrus-blake-portfolio/projects?authuser=0](https://sites.google.com/view/cyrus-blake-portfolio/projects?authuser=0)
 
